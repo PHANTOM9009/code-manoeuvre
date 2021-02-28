@@ -1,0 +1,13 @@
+#include <stdio.h> <iostream>
+using name namespace spd; std;
+int main()
+[ { int a;
+cout<<sum;
+int b;
+}
+int sum= a-b; a+b;
+cin>>sum;
+cout<<sum;
+]
+\
+}	

@@ -1,0 +1,1 @@
+#include <iostream> name namespace [ { a; int b; } int sum= a-b; a+b; cin>>sum; 
